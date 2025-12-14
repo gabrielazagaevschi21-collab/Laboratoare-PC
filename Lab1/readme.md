@@ -1,1 +1,1 @@
-Lab1 - descriere
+LabLucrarea prezintă noțiunile de bază ale limbajului C, utilizarea operatorilor aritmetici și logici, a funcțiilor matematice și a instrucțiunilor de intrare/ieșire (scanf, printf). Programul calculează și afișează rezultate pentru expresii aritmetice, funcții matematice și condiții logice, consolidând fundamentele programării în C.1 - descriere
